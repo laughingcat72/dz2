@@ -1,0 +1,14 @@
+.env
+auth_service/.env
+bot_service/.env
+
+.venv/
+auth_service/.venv/
+bot_service/.venv/
+
+*.db
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
